@@ -8,7 +8,7 @@ import { deploymentURL } from '@/constant/env';
 const defaultMeta = {
   title: 'Open Graph Generator',
   siteName: 'Open Graph Generator',
-  description: 'Made for personal use by Theodorus Clarence',
+  description: 'Made for personal use by Jeff Fan',
   url: deploymentURL,
   image: `${deploymentURL}/images/logo.jpg`,
   type: 'website',
@@ -50,7 +50,7 @@ export default function Seo(props: SeoProps) {
       <meta name='image' property='og:image' content={meta.image} />
       {/* Twitter */}
       <meta name='twitter:card' content='summary_large_image' />
-      <meta name='twitter:site' content='@th_clarence' />
+      <meta name='twitter:site' content='@iambigmomma27' />
       <meta name='twitter:title' content={meta.title} />
       <meta name='twitter:description' content={meta.description} />
       <meta name='twitter:image' content={meta.image} />
@@ -65,7 +65,7 @@ export default function Seo(props: SeoProps) {
           <meta
             name='author'
             property='article:author'
-            content='Theodorus Clarence'
+            content='Jeff Fan'
           />
         </>
       )}
