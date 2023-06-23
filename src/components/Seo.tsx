@@ -10,7 +10,7 @@ const defaultMeta = {
   siteName: 'Open Graph Generator',
   description: 'Made for personal use by Jeff Fan',
   url: deploymentURL,
-  image: `${deploymentURL}/images/logo.jpg`,
+  image: `${deploymentURL}/images/logo.png`,
   type: 'website',
   robots: 'follow, index',
 };

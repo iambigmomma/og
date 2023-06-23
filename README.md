@@ -9,7 +9,7 @@ Feel free to fork it and use it for your website!
 You can achieve deployment fully from the website without cloning the repository.
 
 1. Fork the repository
-2. Replace the public/images/logo.jpg with your logo. Make sure it has the same file name.
+2. Replace the public/images/logo.png with your logo. Make sure it has the same file name.
 
    This is optional, replacing the logo will grant you the ease of using the api without having to add your logo link on the parameters every time.
 

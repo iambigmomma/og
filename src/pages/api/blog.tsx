@@ -75,7 +75,7 @@ export default async function handler(req: NextRequest) {
               <span
                 style={
                   {
-                    backgroundImage: 'linear-gradient(90deg, #00e887, #00e0f3)',
+                    backgroundImage: 'linear-gradient(90deg, #B06AB3, #4568DC)',
                     backgroundClip: 'text',
                     '-webkit-background-clip': 'text',
                     color: 'transparent',
